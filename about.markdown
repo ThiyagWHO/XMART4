@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact Us
+permalink: /Contact Us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Please contact below persons for XMART support
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  1. TANTILLO, Christopher <tantilloc@who.int>
+  2. PUDUPEERKADAVU THANGAN, Thiyagarajan <pudupeerkadavut@who.int>
+  3. FAULKNER, Christopher John <faulknerc@who.int>
