@@ -6,8 +6,8 @@ categories: XMART4 update
 ---
 The links for XMART4 UI
 
-  1. UAT [UAT Link]
-  2. PROD [PROD Link]
+  1. [UAT]
+  2. [PROD]
 
-[UAT Link]: https://portal-uat.who.int/xmart4/
-[PROD Link]: https://extranet.who.int/xmart4/
+[UAT]: https://portal-uat.who.int/xmart4/
+[PROD]: https://extranet.who.int/xmart4/
