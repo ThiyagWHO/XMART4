@@ -18,21 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: XMART4 POC
-email: xmart4@who.int 
+title: POC for jekyll site generator
+# logo: /logo.png
+email: Email-->xmart4@who.int 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  XMART4 POC for GitHub pages using jekyll site generator.
 baseurl: "XMART4" # the subpath of your site, e.g. /blog
 url: "https://portal-uat.who.int/xmart4/" # the base hostname & protocol for your site, e.g. http://example.com
-WHO_username: pudupeerkadavut
-github_username:  ThiyagWHO
+twitter_username: World Health Organization
+github_username:  novelt/xmart
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+ - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
