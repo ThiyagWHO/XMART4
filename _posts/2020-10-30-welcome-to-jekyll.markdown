@@ -1,9 +1,11 @@
 ---
 layout: post
-title: ![logo](https://user-images.githubusercontent.com/54258492/97693885-c4188280-1adc-11eb-9849-bfa71913f302.png) "Welcome to XMART4" 
+title:
 date:   2020-10-30 03:42:16 +0800
 categories: XMART4 update
 ---
+ ![logo](https://user-images.githubusercontent.com/54258492/97693885-c4188280-1adc-11eb-9849-bfa71913f302.png) "Welcome to XMART4"
+ 
 The links for XMART4 UI
 
   1. [UAT]
