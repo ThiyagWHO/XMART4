@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "XMART4" # the subpath of your site, e.g. /blog
 url: "https://portal-uat.who.int/xmart4/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: World Health Organization
-github_username:  novelt/xmart
+github_username:  novelt/xmart ![logo](https://user-images.githubusercontent.com/54258492/97693885-c4188280-1adc-11eb-9849-bfa71913f302.png)
 
 # Build settings
 theme: minima
