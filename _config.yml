@@ -53,4 +53,4 @@ theme: minima
 #   - vendor/gems/
 #   - vendor/ruby/
 # include:
-#   - _posts/
+#   - _posts/Test.markdown/
