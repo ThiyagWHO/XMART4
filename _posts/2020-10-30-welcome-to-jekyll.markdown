@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to XMART4"
+title: "Welcome to XMART4 Updated"
 date:   2020-10-30 03:42:16 +0800
 categories: XMART4 update
 ---
