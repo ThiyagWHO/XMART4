@@ -6,6 +6,7 @@ categories: XMART4 update
 ---
  ![image](./logo.png)
  ![image](./XMART4HomePage.jpg)
+ <img src="./logo.png" width="800" />
  <img src="./XMART4HomePage.jpg" width="800" />
  
 The links for XMART4 UI
