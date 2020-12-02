@@ -5,7 +5,7 @@ date:   2020-10-30 03:42:16 +0800
 categories: XMART4 update
 ---
  ![image](./logo.png)
- ![image](./XMART4HomePage.png)
+ ![image](./XMART4HomePage.jpg)
 The links for XMART4 UI
 
   1. [UAT]
